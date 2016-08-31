@@ -1,0 +1,28 @@
+{
+  "name": "shashawnaw.github.io",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashawnawinters/shashawnaw.github.io.git"
+  },
+  "author": "Shashawna Winters <shashawnawinters@yahoo.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/shashawnawinters/shashawnaw.github.io/issues"
+  },
+  "homepage": "https://github.com/shashawnawinters/shashawnaw.github.io#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "gulp-live-server": "0.0.30"
+  }
+}
