@@ -1,14 +1,14 @@
 {
-  "name": "fractionless-boilerplate",
-  "version": "3.0.0",
-  "description": "The HTML/CSS boilerplate you build up from, not tear down.",
+  "name": "shashawnawinters.gitub.io",
+  "version": "1.0.0",
+  "description": "My portfolio",
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shashawnawinters/winters-portfolio.git"
+    "url": "https://github.com/shashawnawinters/shashawnawinters.github.io.git"
   },
   "keywords": [
     "HTML",
@@ -17,11 +17,11 @@
     "boilerplate"
   ],
   "author": "Shashawna Winters <shashawnawinters@yahoo.com>",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/shashawnawinters/winters-portfolio/issues"
+    "url": "https://github.com/shashawnawinters/shashawnawinters.github.io/issues"
   },
-  "homepage": "https://github.com/shashawnawinters/winters-portfolio",
+  "homepage": "https://github.com/shashawnawinters/shashawnawinters.github.io",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-connect": "^0.9.0",
