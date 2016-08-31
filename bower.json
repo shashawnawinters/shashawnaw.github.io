@@ -1,7 +1,7 @@
 {
-  "name": "fractionless-boilerplate",
-  "version": "3.0.0",
-  "description": "An HTML/CSS framework you build on instead of tear apart.",
+  "name": "shashawnawinters.github.io",
+  "version": "1.0.0",
+  "description": "My portfolio",
   "main": "src/index.html",
   "keywords": [
     "html",
@@ -14,7 +14,7 @@
   "authors": [
     "Shashawna <shashawnawinters@yahoo.com>"
   ],
-  "license": "MIT",
+  "license": "GPL-3.0",
   "homepage": "",
   "private": true,
   "ignore": [
